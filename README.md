@@ -1,7 +1,4 @@
-### Hi, my name is Sara Kazemi
-👩🏻‍💻 I'm currently an API Software Engineer at Achieve Internet in San Diego, CA
-🍎 I previously taught high school computer science in as a credentialled public school teacher
-📜 I have degrees in computer science (B.S., 2020), computational linguistics (M.A., 2014), and psychology & linguistics (B.A., 2008)
+### H e l l o
 <!--
 **kazemicode/kazemicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
